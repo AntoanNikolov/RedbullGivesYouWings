@@ -1,1 +1,1 @@
-This game uses Google's Teachable Machine AI Model to recognize hand gestures you show to the camera. Close your hand to freefall, open your hand to bounce.
+This game uses Google's Teachable Machine AI Model to recognize hand gestures you show to the camera. Close your hand to freefall, open your hand to bounce. Collect redbull cans for energy to fly. Each jump uses your energy.
